@@ -4,7 +4,9 @@
 
 ## Step - 1
 
-Clone repository or download the ZIP file from above.
+Clone repository or download the ZIP file.
+<code>
+  
 
 ## Step - 2
 
